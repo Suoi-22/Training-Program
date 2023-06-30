@@ -1,0 +1,3643 @@
+fileFormatVersion: 2
+guid: d5a92b37bf8e2514fbf8e05ace8d39ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrenadierJeep_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786fe799c938aff48a1026a083259d90
+      internalID: -866681297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44c0da291ee8d145be06ae3867413b2
+      internalID: 693559815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f694bd91416b8846ba4e86dbeddd60c
+      internalID: 812470570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a590aa2c2960e964da4235468097ba8f
+      internalID: -876439743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411debc0fac2fa54cbcfc3d9405e386d
+      internalID: 1504420339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630cef79a7aaa54b8c9eb3d513bc692
+      internalID: 1578936696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3934fd40eaa0a4bb4975622e6a1879
+      internalID: -557821681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 627.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5e719c413da154ab3f8f7386783348
+      internalID: -1647380938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef05941d5f73314448a70db51b189d94
+      internalID: 703491174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cfaf9694b526344934a14136dfa802
+      internalID: 483339185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a618c238cffa04e84d742b474a64d6
+      internalID: 1355472101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e89f0ea0abac41bfbfcdeb40b0c62
+      internalID: 446207659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1ae2529237a7646aba46c29a96aa10
+      internalID: -1209159378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1749961285af4e9225232c0b912e3
+      internalID: -259591606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2483b55333ad6948b8415050b096035
+      internalID: 1640174836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 594.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd976fd220abf24093b23d5b80474e0
+      internalID: 875550267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550eaf646afdb7a41a85aeb275922157
+      internalID: 1266484341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128ea350618c9b549b499940b70751d7
+      internalID: 339120501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cda0361e4dabe4faa4716eb5b80dce
+      internalID: -1653720857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47215fd2f1504a445b9d1d5bc4284400
+      internalID: 1977477198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7df797378594c438bc2a904cb29bd9
+      internalID: -1505779263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bca75a029697244a35de27a734f8b8
+      internalID: -48116905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d5c6a8b3cf591468fc91b52b1292a3
+      internalID: 1639120705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 561.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f511ef29c7f40b45884cbb583640e06
+      internalID: -363059115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c710ce4e56f7f4fafb0f8fc66bb21d
+      internalID: 1676019191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5679f05c635d0a342b44c4c36776b71e
+      internalID: -2077337037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee84e9ce86e4f47b299245691a61c2
+      internalID: -1767486981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2f03537c78ca7428b55aa7fdad72fd
+      internalID: -102426146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db0d9c16f800fb41925a96f0aa83b4a
+      internalID: -556389319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58974f98b20e74186cac4c76cc458c
+      internalID: 814137319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc121ab04fa62b47942ad69d760c189
+      internalID: 1987404357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab4a1654b11a54e89f27c1452b76a6
+      internalID: -1672688353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fd12c42cf9c8641a71459637810b6c
+      internalID: 996311659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed20f18a0733e4347a6636f0f33a0d52
+      internalID: 967907322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cc09d550caf9b47abe950de34b65d4
+      internalID: 198517876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe1d7bfe05c5bf4fa8d55d1cf76df97
+      internalID: -507626972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887f313568bb174b9a0de69097e1e56
+      internalID: -320019430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_37
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b6fe03675f7c428f4bbd5ba8822e9
+      internalID: -605498639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b1ea2b2a7242244b44dd66fdb16fae
+      internalID: 1262053270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_39
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 495.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb5c9a8f3728f04495ddeb55c43f303
+      internalID: -1256049118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3738a0dac3a1b469243e66ccbfce66
+      internalID: -1247430963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0724e9e0da5504d900478ca829d9f2
+      internalID: -1037420641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f915c572b015f1a48a45e58c7144321e
+      internalID: -20729401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d8938640370442886a36a69edc3ab
+      internalID: -1997386649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b4ef0c19663ad4b936bbb521ca2568
+      internalID: 1088707434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_45
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab8199395266ee4881bd77a653bd73e
+      internalID: -367395425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_46
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19740c8e9d285e4c9e30414f339a776
+      internalID: 1818803470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 462.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e00f274b7babc4b97f08f4cde0856b
+      internalID: -195978481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a14f0ba19053043b291e90d7045359
+      internalID: 410512784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93a33c070659c34086b71941c338506
+      internalID: 1070091484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd7ee4716523ee40964fd149dcd41e7
+      internalID: 28154580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_51
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f9b3274ca1704eb127b24ebaecf3a
+      internalID: -347152923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcd763f6701a2e4fb2d4835ce115742
+      internalID: 184271257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b9351533ed05b49977a114050959a8
+      internalID: -1432350873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_54
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e8c7d7ebc4a9c47918e100e20194fe
+      internalID: -569557560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 429.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd04e2a1700724193f0021dd60011b
+      internalID: -873255590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_56
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f70e23aa052644b89f71297eb737b3
+      internalID: -1289102436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_57
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0430f702f2f31d449ae0dac5a18d1c60
+      internalID: -1647586024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_58
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f050df264fca46ace9a8e4c2c4ea8
+      internalID: 632684237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac20c503b183a4b9dfe0a3f33c31f0
+      internalID: 229314954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_60
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fba183253d48764380624313f5e48f6
+      internalID: 385164572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_61
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f55900836ec7c409e9a201321ea82e
+      internalID: -341982887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_62
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f5e3eba3553844e9cac89717988aa6
+      internalID: -1560616788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 396.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bface97b180eaf743a09bf0515f7627d
+      internalID: -4818032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_64
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d6ccd18a4db64d9c970492e802208
+      internalID: 176878453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_65
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde97487558256b40b3ebb280f5f8e9e
+      internalID: 1982237228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3dbf528a2fcba48b767ff0c89ca7a3
+      internalID: -1249473979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_67
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c8c025338204f409de92277e2bb5f1
+      internalID: 1684320830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_68
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e83c586fe7ed4ea41f50a0a03ef9e
+      internalID: -973994570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_69
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f61f689133be42b5b33600587d0f2
+      internalID: 357255351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_70
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4872d01128f089548af3ceb3d00a6fff
+      internalID: 1323546131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 363.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106bfe9c4aafb354fa3e4dc0cd961ff8
+      internalID: 471124270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_72
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3e3faff31be9c4294bbaaf9dd0510d
+      internalID: -1503107480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295b3e48ff2d8c84d9eca6019c8d692c
+      internalID: 693097429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_74
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126930cd85045a40af328c7a61d7be4
+      internalID: 1294426241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_75
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4988520fd3a1543ae1c77abfaa35dd
+      internalID: 1037830167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_76
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18257ca8bac6b949832b48f249faa00
+      internalID: -1651862485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_77
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5b4d055d6ba4408d39f4a4ab5544f
+      internalID: -453113419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_78
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e126902e08cceb3418fa1a2297c81db4
+      internalID: -1576908934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 330.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f6e4e8d3242a4f9f897b885966a75
+      internalID: -1794380795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_80
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609d93e6817bd34cbdc713b8f66aaf7
+      internalID: -816683219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d026d65fe4c0e49b03d792bf35091b
+      internalID: 1839534605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_82
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c80a32094909ca4f98a68ab56c866fc
+      internalID: 541659346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_83
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ca482b95489148acc28476a0ab84e
+      internalID: -1101233726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_84
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9106f382a77164d9cd69a7a37ab447
+      internalID: -1885532106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_85
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd17404861d85004d9b6a724d8042238
+      internalID: -1947940946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_86
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b2a17d18071e49aac58286654cb0d
+      internalID: -1684023656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 297.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b3b3b632f7e143b4edff1d0a49cc8
+      internalID: -1956011700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9185b5adf7c4e8d46adde217999a2f3b
+      internalID: 1759992413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9081343dee1bd44be3000d2f505ecc
+      internalID: 1054372151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_90
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e466e883905b14b895ee0f86a90f9a
+      internalID: 321086386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_91
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe6a3868673e049b502a774c9b095b
+      internalID: 1893376079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_92
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac37e4abfa90c4f8a3a9c4ffc1cd53
+      internalID: -741529616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_93
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c097eb88c29a58f43a236e2e1646faee
+      internalID: -806309674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_94
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa43a6b4568944784ef8293a16d8c9
+      internalID: 1360376243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 264.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d6efaf73dc28429435264370539c5
+      internalID: -1422094783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b59fb2d07d11c4e9038a3b0a380175
+      internalID: -1858958466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_97
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ecdfc0ff053af4b9a1752a41ffdc30
+      internalID: 816562444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_98
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4763c207e42fefe42b17dff464c1449d
+      internalID: -127764586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_99
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fefbc3727eae54a970744699d07cd9
+      internalID: 1693397259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_100
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5788136cfc0e2ca408bbb8420d621f0f
+      internalID: -1810528194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_101
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250f05fa3304f9749ab877af581661a2
+      internalID: 1296261369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_102
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa9a0b642de564782a218832a2b250
+      internalID: 659660116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 231.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd5925e5a044ea439048348e7ece3fc
+      internalID: 2032924644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b586393df24390c4eb2dc5494a4b4c3d
+      internalID: 2002179282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf294a5b510a144a8b378ca5a504e09
+      internalID: -1186998274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2c9cb29af233408f3a1427aa01244
+      internalID: 1555613578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_107
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c30a06f657eec49ae8539104c56668
+      internalID: -22967323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_108
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808bad0cab27cb2479a40acfdd38758a
+      internalID: 1374056516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_109
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205f9de31b8be34c8c360fdf70540f9
+      internalID: -875935584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f1ad5cd239e0a42995ac2b377af6cb
+      internalID: -2005465024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_111
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 198.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c292616b5d3b148a0cde4c40792d1a
+      internalID: -534519691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec9af40dfd82c04d841618c0205d82b
+      internalID: 1532927969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_113
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b1e69456684d4babea4a8dd7baa74
+      internalID: 647068305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_114
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4695483013ab8874aa9873f528d7c3a1
+      internalID: 161294669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_115
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1589c1cf460c186479f25ff2c166b945
+      internalID: -1107188202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_116
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2b1dba2f0722b419fae09271cab40c
+      internalID: 66711733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_117
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92e800f3869a7446a4b656626746dc5
+      internalID: -1696038627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_118
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde81b1754571a47bc370098fabd080
+      internalID: 1096744585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_119
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 165.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc8322dd0143640ad9075ac95f8442
+      internalID: 574308090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3639941aff5c41bc2ef96544922dc
+      internalID: 1475629255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0a81181feebb04bbdcb416152b5f68
+      internalID: 801042190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_122
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b900e3828c0bf3642b46cc11a459e7d2
+      internalID: -219908593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_123
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b21ddba65527c469a699bc6dfecfbb
+      internalID: -1132845294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_124
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df81e69dbc11423488b65406c7c7f63d
+      internalID: 1420074502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_125
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8f99edc6e256045b635ada86514fc4
+      internalID: 1204612981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_126
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f90336d3da44d34b980193b45292957
+      internalID: -1089333705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 132.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e18ba70e91e714f81f7ea0a8e86f2a
+      internalID: -1235382042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_128
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6351faf77a73cd1429fa307053eb6211
+      internalID: 731541214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_129
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab4864fd0cffa647b6c7fbecb8a1fc8
+      internalID: 1693271988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_130
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c99b8d0e32f57849851628a6efaf501
+      internalID: 284195476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_131
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deabaa6efd0e495459266a121f07a986
+      internalID: -1469605314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_132
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343bb00d8a3339446a8ca43c9373eb7a
+      internalID: 2001624920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_133
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f0c02bec91ca45a3d83fc84428c0c
+      internalID: 1582622410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_134
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d349684565f654cb2f7adb6e74e40a
+      internalID: 1672340504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_135
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 99.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c5d19d91fd30c419a43de2516c9275
+      internalID: -2047759311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_136
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec209db39efb3474692cbf7b45b04e85
+      internalID: -122798443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_137
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd453a0fd28df54097eabd4383f8eda
+      internalID: -1267748919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_138
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5866e8c7e3a8a2f43aaea297c8911f84
+      internalID: 1626906012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_139
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd8d3cd5d2771c41a64e56271698c60
+      internalID: -595009040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_140
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e5b47aa2f3ac34a9ce45092d1df86c
+      internalID: -1923921358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_141
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b53d91a89216374892344b3b4305128
+      internalID: -303947211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_142
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c765ccb90a5254f95313a28e24a096
+      internalID: -1188163751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_143
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370c8250179ea1e4ca15e14cd5bf89c7
+      internalID: -377719545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_144
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e41c7dba2cfa4098400472843a944
+      internalID: -1606388655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_145
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8720d4fb814648a0aec920bf2383b
+      internalID: -434376864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_146
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d56b5d48c6717439be28738659b2d5
+      internalID: 1300331064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_147
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224084cd4d4ec1b47853a435999fea1d
+      internalID: -1021114172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_148
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11e0f8c381bbdd42986e32aacfbb29b
+      internalID: 357481488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_149
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3309d167489b1d41b515a1c18739eeb
+      internalID: -67353462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_150
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbbdc2eee86ebd47a4079b99a13688a
+      internalID: -1597642121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_151
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33.95
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a6e9dae31adbe4d8ce6d8ef63448af
+      internalID: -986182706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_152
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532194f34fcf877459c267518ec48f33
+      internalID: -789342996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_153
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35e4504b97a5c7458a8fa3d37f44167
+      internalID: -415312285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_154
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7c943a3cf46c54db25b09a072ff8a0
+      internalID: -131731741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_155
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cd8e4e3c5291488ae3f58314e39ef
+      internalID: 22263821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5f9c7ba89ce64cb822f8205b47e28
+      internalID: 72004734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_157
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f217ee0edbbb954381f7ac05af0b321
+      internalID: -481217957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_158
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b67b0509825346aa536e26dd77066
+      internalID: -597565013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrenadierJeep_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0.95000076
+        width: 33.125
+        height: 33.05
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a5f625ba298b045a11e5f61b2ffc82
+      internalID: -1886422617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GrenadierJeep_0: -866681297
+      GrenadierJeep_1: 693559815
+      GrenadierJeep_10: 1355472101
+      GrenadierJeep_100: -1810528194
+      GrenadierJeep_101: 1296261369
+      GrenadierJeep_102: 659660116
+      GrenadierJeep_103: 2032924644
+      GrenadierJeep_104: 2002179282
+      GrenadierJeep_105: -1186998274
+      GrenadierJeep_106: 1555613578
+      GrenadierJeep_107: -22967323
+      GrenadierJeep_108: 1374056516
+      GrenadierJeep_109: -875935584
+      GrenadierJeep_11: 446207659
+      GrenadierJeep_110: -2005465024
+      GrenadierJeep_111: -534519691
+      GrenadierJeep_112: 1532927969
+      GrenadierJeep_113: 647068305
+      GrenadierJeep_114: 161294669
+      GrenadierJeep_115: -1107188202
+      GrenadierJeep_116: 66711733
+      GrenadierJeep_117: -1696038627
+      GrenadierJeep_118: 1096744585
+      GrenadierJeep_119: 574308090
+      GrenadierJeep_12: -1209159378
+      GrenadierJeep_120: 1475629255
+      GrenadierJeep_121: 801042190
+      GrenadierJeep_122: -219908593
+      GrenadierJeep_123: -1132845294
+      GrenadierJeep_124: 1420074502
+      GrenadierJeep_125: 1204612981
+      GrenadierJeep_126: -1089333705
+      GrenadierJeep_127: -1235382042
+      GrenadierJeep_128: 731541214
+      GrenadierJeep_129: 1693271988
+      GrenadierJeep_13: -259591606
+      GrenadierJeep_130: 284195476
+      GrenadierJeep_131: -1469605314
+      GrenadierJeep_132: 2001624920
+      GrenadierJeep_133: 1582622410
+      GrenadierJeep_134: 1672340504
+      GrenadierJeep_135: -2047759311
+      GrenadierJeep_136: -122798443
+      GrenadierJeep_137: -1267748919
+      GrenadierJeep_138: 1626906012
+      GrenadierJeep_139: -595009040
+      GrenadierJeep_14: 1640174836
+      GrenadierJeep_140: -1923921358
+      GrenadierJeep_141: -303947211
+      GrenadierJeep_142: -1188163751
+      GrenadierJeep_143: -377719545
+      GrenadierJeep_144: -1606388655
+      GrenadierJeep_145: -434376864
+      GrenadierJeep_146: 1300331064
+      GrenadierJeep_147: -1021114172
+      GrenadierJeep_148: 357481488
+      GrenadierJeep_149: -67353462
+      GrenadierJeep_15: 875550267
+      GrenadierJeep_150: -1597642121
+      GrenadierJeep_151: -986182706
+      GrenadierJeep_152: -789342996
+      GrenadierJeep_153: -415312285
+      GrenadierJeep_154: -131731741
+      GrenadierJeep_155: 22263821
+      GrenadierJeep_156: 72004734
+      GrenadierJeep_157: -481217957
+      GrenadierJeep_158: -597565013
+      GrenadierJeep_159: -1886422617
+      GrenadierJeep_16: 1266484341
+      GrenadierJeep_17: 339120501
+      GrenadierJeep_18: -1653720857
+      GrenadierJeep_19: 1977477198
+      GrenadierJeep_2: 812470570
+      GrenadierJeep_20: -1505779263
+      GrenadierJeep_21: -48116905
+      GrenadierJeep_22: 1639120705
+      GrenadierJeep_23: -363059115
+      GrenadierJeep_24: 1676019191
+      GrenadierJeep_25: -2077337037
+      GrenadierJeep_26: -1767486981
+      GrenadierJeep_27: -102426146
+      GrenadierJeep_28: -556389319
+      GrenadierJeep_29: 814137319
+      GrenadierJeep_3: -876439743
+      GrenadierJeep_30: 1987404357
+      GrenadierJeep_31: -1672688353
+      GrenadierJeep_32: 996311659
+      GrenadierJeep_33: 967907322
+      GrenadierJeep_34: 198517876
+      GrenadierJeep_35: -507626972
+      GrenadierJeep_36: -320019430
+      GrenadierJeep_37: -605498639
+      GrenadierJeep_38: 1262053270
+      GrenadierJeep_39: -1256049118
+      GrenadierJeep_4: 1504420339
+      GrenadierJeep_40: -1247430963
+      GrenadierJeep_41: -1037420641
+      GrenadierJeep_42: -20729401
+      GrenadierJeep_43: -1997386649
+      GrenadierJeep_44: 1088707434
+      GrenadierJeep_45: -367395425
+      GrenadierJeep_46: 1818803470
+      GrenadierJeep_47: -195978481
+      GrenadierJeep_48: 410512784
+      GrenadierJeep_49: 1070091484
+      GrenadierJeep_5: 1578936696
+      GrenadierJeep_50: 28154580
+      GrenadierJeep_51: -347152923
+      GrenadierJeep_52: 184271257
+      GrenadierJeep_53: -1432350873
+      GrenadierJeep_54: -569557560
+      GrenadierJeep_55: -873255590
+      GrenadierJeep_56: -1289102436
+      GrenadierJeep_57: -1647586024
+      GrenadierJeep_58: 632684237
+      GrenadierJeep_59: 229314954
+      GrenadierJeep_6: -557821681
+      GrenadierJeep_60: 385164572
+      GrenadierJeep_61: -341982887
+      GrenadierJeep_62: -1560616788
+      GrenadierJeep_63: -4818032
+      GrenadierJeep_64: 176878453
+      GrenadierJeep_65: 1982237228
+      GrenadierJeep_66: -1249473979
+      GrenadierJeep_67: 1684320830
+      GrenadierJeep_68: -973994570
+      GrenadierJeep_69: 357255351
+      GrenadierJeep_7: -1647380938
+      GrenadierJeep_70: 1323546131
+      GrenadierJeep_71: 471124270
+      GrenadierJeep_72: -1503107480
+      GrenadierJeep_73: 693097429
+      GrenadierJeep_74: 1294426241
+      GrenadierJeep_75: 1037830167
+      GrenadierJeep_76: -1651862485
+      GrenadierJeep_77: -453113419
+      GrenadierJeep_78: -1576908934
+      GrenadierJeep_79: -1794380795
+      GrenadierJeep_8: 703491174
+      GrenadierJeep_80: -816683219
+      GrenadierJeep_81: 1839534605
+      GrenadierJeep_82: 541659346
+      GrenadierJeep_83: -1101233726
+      GrenadierJeep_84: -1885532106
+      GrenadierJeep_85: -1947940946
+      GrenadierJeep_86: -1684023656
+      GrenadierJeep_87: -1956011700
+      GrenadierJeep_88: 1759992413
+      GrenadierJeep_89: 1054372151
+      GrenadierJeep_9: 483339185
+      GrenadierJeep_90: 321086386
+      GrenadierJeep_91: 1893376079
+      GrenadierJeep_92: -741529616
+      GrenadierJeep_93: -806309674
+      GrenadierJeep_94: 1360376243
+      GrenadierJeep_95: -1422094783
+      GrenadierJeep_96: -1858958466
+      GrenadierJeep_97: 816562444
+      GrenadierJeep_98: -127764586
+      GrenadierJeep_99: 1693397259
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
